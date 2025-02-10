@@ -3,7 +3,7 @@
 
 # Catalyst Center Cisco Validated Playbooks
 This repository provides Cisco-validated Ansible playbooks to automate Catalyst Center configurations, accelerating your network automation journey. 
-It includes:
+It also includes:
 
 ## Ready-to-use playbooks: 
 Streamline Catalyst Center provisioning with ready-to-use Ansible playbooks. Automate configurations and simplify network management tasks.
